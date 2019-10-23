@@ -1,0 +1,26 @@
+25
+Rock Rock 1000
+Rock Scissors 2000
+Rock Paper 3000
+Rock Lizard 4000
+Rock Spock 5000
+Scissors Rock 1000
+Scissors Scissors 2000
+Scissors Paper 3000
+Scissors Lizard 4000
+Scissors Spock 5000
+Paper Rock 1000
+Paper Scissors 2000
+Paper Paper 3000
+Paper Lizard 4000
+Paper Spock 5000
+Lizard Rock 1000
+Lizard Scissors 2000
+Lizard Paper 3000
+Lizard Lizard 4000
+Lizard Spock 5000
+Spock Rock 1000
+Spock Scissors 2000
+Spock Paper 3000
+Spock Lizard 4000
+Spock Spock 5000

@@ -1,0 +1,27 @@
+24
+Rock Rock 10000001
+Rock Scissors 1
+Rock Paper 1
+Rock Lizard 1
+Rock Spock 1
+Scissors Rock 1
+Scissors Scissors 1
+Scissors Paper 1
+Scissors Lizard 1
+Scissors Spock 1
+Paper Rock 1
+Paper Scissors 1
+Paper Paper 1000000000000000000
+Paper Lizard 1000000000000000000
+Paper Spock 1000000000000000000
+Lizard Rock 1000000000000000000
+Lizard Scissors 1000000000000000000
+Lizard Paper 1000000000000000000
+Lizard Lizard 1000000000000000000
+Lizard Spock 1000000000000000000
+Spock Rock 1000000000000000000
+Spock Scissors 1000000000000000000
+Spock Paper 1000000000000000000
+Spock Lizard 1000000000000000000
+Spock Spock 1000000000000000000
+

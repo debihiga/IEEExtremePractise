@@ -1,0 +1,26 @@
+25
+Rock Rock 10
+Rock Scissors 20
+Rock Paper 30
+Rock Lizard 40
+Rock Spock 50
+Scissors Rock 10
+Scissors Scissors 20
+Scissors Paper 30
+Scissors Lizard 40
+Scissors Spock 50
+Paper Rock 10
+Paper Scissors 20
+Paper Paper 30
+Paper Lizard 40
+Paper Spock 50
+Lizard Rock 10
+Lizard Scissors 20
+Lizard Paper 30
+Lizard Lizard 40
+Lizard Spock 50
+Spock Rock 10
+Spock Scissors 20
+Spock Paper 30
+Spock Lizard 40
+Spock Spock 50
